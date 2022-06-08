@@ -60,7 +60,7 @@
                         <!-- Default configuration for running with: mvn clean javafx:run -->
                         <id>default-cli</id>
                         <configuration>
-                            <mainClass>ru.gb.shurupova.javafxapp/ru.gb.shurupova.javafxapp.HelloApplication</mainClass>
+                            <mainClass>ru.gb.shurupova.javafxapp/ru.gb.shurupova.javafxapp.BullAndCowApplication</mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
                             <jlinkImageName>app</jlinkImageName>
